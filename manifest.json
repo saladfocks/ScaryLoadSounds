@@ -1,0 +1,11 @@
+{
+    "name": "ScaryLoadingSounds",
+    "version_number": "1.1.0",
+    "website_url": "https://github.com/saladfocks/BetterLoadMusic",
+    "description": "This replaces the loading screen with SCARY ambience that resemble what you're viewing while loading.",
+    "dependencies": [
+        "bonelib-BoneLib-3.2.1",
+        "TrevTV-AudioReplacer-1.7.0",
+        "TrevTV-AudioImportLib-1.3.0"
+    ]
+}
